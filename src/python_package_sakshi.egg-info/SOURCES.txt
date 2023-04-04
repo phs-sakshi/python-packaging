@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/__init__.py
+src/app.py
+src/python_package_sakshi.egg-info/PKG-INFO
+src/python_package_sakshi.egg-info/SOURCES.txt
+src/python_package_sakshi.egg-info/dependency_links.txt
+src/python_package_sakshi.egg-info/top_level.txt
